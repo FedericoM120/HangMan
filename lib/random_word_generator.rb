@@ -20,7 +20,7 @@ end
 # the parameter array takes words_inculded_in_game as its array indefintely
 def random_word_selector(array)
   a = array.sample
-  puts a.to_s
+  a
 end
 
 
